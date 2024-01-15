@@ -1,1 +1,1 @@
-Updated guide: https://www.alitajran.com/clear-microsoft-teams-cache/
+Ali Tajran's scripts: https://www.alitajran.com/clear-microsoft-teams-cache/
